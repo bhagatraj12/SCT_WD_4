@@ -1,18 +1,26 @@
 # 📝 To-Do Web Application
 
-A simple, responsive, and user-friendly **To-Do Web Application** built using **HTML, CSS, and JavaScript**. This application helps users efficiently manage daily tasks by allowing them to add, edit, delete, and organize tasks with due dates and completion status.
+A simple and responsive **To-Do Web Application** built using **HTML, CSS, and JavaScript**. This application allows users to efficiently manage their daily tasks by adding, editing, deleting, organizing, and marking tasks as completed. It also supports setting a due date and time for each task, with data stored locally in the browser using the Local Storage API.
 
 ---
 
-## 📌 Features
+## 📸 Project Screenshot
+
+<p align="center">
+  <img src="images/todo.png" alt="To-Do App Screenshot" width="900">
+</p>
+
+---
+
+## 🚀 Features
 
 - ➕ Add new tasks
 - ✏️ Edit existing tasks
 - 🗑️ Delete tasks
 - ✅ Mark tasks as completed
 - 📅 Set due date and time
-- 💾 Stores tasks using Local Storage
-- 📱 Fully responsive design
+- 💾 Save tasks using Local Storage
+- 📱 Responsive design for different screen sizes
 - 🎨 Clean and modern user interface
 
 ---
@@ -28,8 +36,8 @@ A simple, responsive, and user-friendly **To-Do Web Application** built using **
 
 ## 📂 Project Structure
 
-```
-ToDo-App/
+```text
+SCT_WD_4/
 │── index.html
 │── style.css
 │── script.js
@@ -41,69 +49,53 @@ ToDo-App/
 
 ---
 
-## 🚀 Getting Started
+## ▶️ How to Run
 
-### 1. Clone the repository
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/bhagatraj12/SCT_WD_4.git
 ```
 
-### 2. Open the project
+2. Open the project folder in **Visual Studio Code**.
 
-Open the project folder in **Visual Studio Code**.
-
-### 3. Run the application
-
-Open `index.html` directly in your browser
-
-**OR**
-
-Use the **Live Server** extension in VS Code.
+3. Open `index.html` in your browser or use the **Live Server** extension.
 
 ---
 
-## 📸 Project Screenshot
+## 📖 How It Works
 
-![To-Do App](images/todo.png)
-
----
-
-## 💻 How It Works
-
-1. Enter a task in the input field.
-2. Select the due date and time.
-3. Click the **Add Task** button.
-4. View all added tasks in the task list.
-5. Edit or delete tasks whenever needed.
-6. Mark tasks as completed after finishing them.
-7. Tasks are automatically saved in the browser using Local Storage.
+- Enter a task in the input field.
+- Select the due date and time.
+- Click the **Add Task** button.
+- View all tasks in the task list.
+- Edit, delete, or mark tasks as completed.
+- Tasks are automatically saved in your browser using Local Storage.
 
 ---
 
 ## 🌟 Future Enhancements
 
 - 🔍 Search tasks
-- 📂 Filter by Completed/Pending
-- ⭐ Task Priority (High, Medium, Low)
-- 🌙 Dark Mode
-- 🔔 Notification reminders
-- 📊 Task statistics dashboard
-- 📌 Drag and Drop task reordering
+- 📂 Filter by Completed and Pending tasks
+- ⭐ Task priority levels
+- 🌙 Dark mode
+- 🔔 Reminder notifications
+- 📊 Task statistics
+- 📌 Drag-and-drop task reordering
 
 ---
 
-## 📖 Learning Outcomes
+## 🎯 Learning Outcomes
 
 This project demonstrates:
 
 - DOM Manipulation
 - Event Handling
-- JavaScript Functions
-- Local Storage API
-- Responsive Web Design
 - CRUD Operations
-- UI Design Principles
+- Local Storage
+- Responsive Web Design
+- JavaScript Functions
 
 ---
 
@@ -111,7 +103,7 @@ This project demonstrates:
 
 **Bhagat Raj**
 
-GitHub: https://github.com/bhagatraj12
+GitHub: **https://github.com/bhagatraj12**
 
 ---
 
